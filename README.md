@@ -1,0 +1,50 @@
+# ゴールデンボンバー – 煙草
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You know, because I don't forget,
+Because I don't throw everything away
+The smiles, words you gave me, and pain too
+Like bruises that won't disappear
+Saying clearly, I still love you
+
+I guess it won't turn over anymore
+Is that guy better?
+What does he have that I don't have?
+I have no idea at all
+
+Wriggling struggling suffering
+Your extremely straight voice from our last phone talk
+Aah, I can't get it out of my head
+
+You know, because I don't forget,
+Because I don't throw everything away
+The smiles, words you gave me, and pain too
+Like bruises that won't disappear
+Saying clearly, please let me still love you
+
+I won't be able to love anyone anymore, I thought through this year
+I have fallen with you so much that it was wearing me out like this
+Aah I'm losing love
+
+You know, I don't forget but don't think that's it's a heavy feeling
+I won't bother you
+So please let me secretly picture you
+So many melodies overflow me
+
+I searched and searched and found
+I just loved everything about you
+And the cigarette I smoke copying you
+Is really not tasty at all
+But I just want to understand you
+
+You know, because I don't forget,
+Because I don't throw everything away
+I really want to send you mail or call but
+Become happy, okay? With someone else
+Tears flow down so hard that I hate it
+
+Farewell, I love you but
+It doesn't reach you, doesn't reach, doesn't reach, doesn't reach
+```
