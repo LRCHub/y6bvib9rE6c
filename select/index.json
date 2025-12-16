@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "煙草",
+  "base_artist": "ゴールデンボンバー",
+  "createdAt": "2025-12-16T20:36:31.558718Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tobacco (煙草)",
+      "artist": "Golden Bomber (ールデンボンバー)",
+      "has_synced": false,
+      "path": "select/01_Tobacco_(煙草)_Golden_Bomber_(ールデンボンバー).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "煙草",
+      "artist": "ゴールデンボンバー",
+      "has_synced": false,
+      "path": "select/pl_01_煙草_ゴールデンボンバー.txt"
+    }
+  ]
+}
